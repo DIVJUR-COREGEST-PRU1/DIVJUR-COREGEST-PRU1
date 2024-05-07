@@ -1,6 +1,6 @@
 # Divisão de Jurimetria - COREGEST1
 
-Ambiente criado para gerenciamento das soluções tecnológicas da [ Divisão de Jurimetria](https://agudf.sharepoint.com/sites/PRU1/SitePages/Jurimetria.aspx?OR=Teams-HL&CT=1686159221288&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIxNDE1LzIzMDUwMTAwNDIyIiwiSGFzRmVkZXJhdGVkVXNlciI6ZmFsc2V9) da PRU1. 
+Ambiente criado para gerenciamento das soluções tecnológicas da [ Divisão de Jurimetria](https://agudf.sharepoint.com/sites/PRU1/SitePages/Jurimetria.aspx?OR=Teams-HL&CT=1686159221288&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIxNDE1LzIzMDUwMTAwNDIyIiwiSGFzRmVkZXJhdGVkVXNlciI6ZmFsc2V9) da Procuradora Geral da União da 1ª Região - PRU1. 
 
 Os objetivos deste projeto são:
 
